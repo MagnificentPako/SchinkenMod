@@ -1,0 +1,16 @@
+[
+{
+  "modid": "schinken",
+  "name": "SchinkenForge",
+  "description": "Hacked Client for Forge 1.6.4.",
+  "version": "0.1",
+  "mcversion": "1.6.4",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["laklaklak"],
+  "credits": "Nobody",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
